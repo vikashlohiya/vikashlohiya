@@ -4,9 +4,9 @@
 **LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Vikash](https://www.linkedin.com/in/vikashlohiya/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [Vikash](https://www.linkedin.com/in/vikashlohiya/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 12+ years of professional onsite as well as remote working experience. 🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with  Php Laravel and python, MVC Frameworks and Cloud based technologies. 🚀
 
 
 <p float="left">
