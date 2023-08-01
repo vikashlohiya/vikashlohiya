@@ -30,6 +30,9 @@ I mostly work with  Php Laravel and python, MVC Frameworks and Cloud based techn
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
+   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vikashlohiya/vikashlohiya/main/imageUpload.gif" height="70" />
+  </a>
  </p>
   
 ### DevOps
