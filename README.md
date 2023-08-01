@@ -10,6 +10,12 @@ I mostly work with  Php Laravel and python, MVC Frameworks and Cloud based techn
 
 
 <p float="left">
+   <a href="https://python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vikashlohiya/vikashlohiya/main/laravel.png"  height="90" />
+  </a>
+   <a href="https://python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vikashlohiya/vikashlohiya/main/wordpress.avif"  height="90" />
+  </a>
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
